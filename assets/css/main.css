@@ -1934,7 +1934,7 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+			.icon.circle.ttwitter {
 				background: #70aecd;
 				color: #fff;
 			}
@@ -2254,7 +2254,7 @@ input, select, textarea {
 
 		.wrapper.style4 {
 			background: #fff;
-			color: inherit;
+			color: black;
 			padding: 4em;
 		}
 
